@@ -23,6 +23,7 @@ urls=(
     https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/mac.txt
     https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt
+    https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/windows.txt
     https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/official-domains.txt
     https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt
