@@ -5,13 +5,13 @@ touch input.csv
 
 # declare an array of urls
 urls=(
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 https://github.com/uBlockOrigin/uAssets/blob/master/filters/filters-2023.txt
 https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/general_url.txt
 https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/adservers.txt
 https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/antiadblock.txt
 https://easylist.to/easylist/easyprivacy.txt
 https://easylist.to/easylist/easylist.txt
+https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names.txt
 https://abpvn.com/vip/thantaibx.txt
 )
 
